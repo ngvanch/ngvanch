@@ -13,7 +13,7 @@
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](#)](#)
+[![](#)](#)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-chung-6a443526a/" target="_blank">
