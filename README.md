@@ -35,9 +35,6 @@
   <a href="https://stackoverflow.com/users/19480571/ngvanch" alt="Stack Overflow">
     <img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/>
   </a>
-  <a href="https://www.researchgate.net/profile/Nguyen-Chung-28" alt="ResearchGate">
-    <img src="https://icons8.com/icon/eF2TzAMt3p0H/researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers"/>
-  </a>
   <a href="#" alt="https://www.youtube.com/channel/UCs6JbyI808CKrJMcTtzFUCA" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
@@ -50,8 +47,6 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://icons8.com/icon/62133/machine-learning"/>
-  <img src="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
