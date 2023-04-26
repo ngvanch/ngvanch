@@ -5,9 +5,9 @@
 </p>
 
 
-- ✍ I'm a student of: [Ho Chi Minh city University Of Science](https://hcmus.edu.vn) (HCMUTE).
+- ✍ I'm a student of: [Ho Chi Minh city University Of Science](https://hcmus.edu.vn) (HCMUS).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Computer Vision.**
 
 <br />
 
@@ -22,18 +22,29 @@
   <a href="https://www.facebook.com/chungnguyen241202/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/ngvanch" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="#" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <a href="https://twitter.com/NgVanChungIt" alt="Twitter">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
   </a>
   <a href="https://www.kaggle.com/nguynvnchung" alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
   </a>
+  </a>
+  <a href="https://github.com/ngvanch" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://stackoverflow.com/users/19480571/ngvanch" alt="Stack Overflow">
+    <img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Nguyen-Chung-28" alt="ResearchGate">
+    <img src="https://icons8.com/icon/eF2TzAMt3p0H/researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers"/>
+  </a>
+  <a href="#" alt="https://www.youtube.com/channel/UCs6JbyI808CKrJMcTtzFUCA" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
   <a href="mailto:it.chungnguyen@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  
 </p>
 
 ## Skills:
