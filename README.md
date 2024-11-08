@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-# Certificates:
+## Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
