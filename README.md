@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-## Certificates:
+<!--# Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
@@ -87,3 +87,4 @@
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](#)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](#)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](#)
+-->
